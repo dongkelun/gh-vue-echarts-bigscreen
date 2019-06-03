@@ -1,1 +1,1 @@
-# gh-vue-echarts-bigscreen
+# 大屏
